@@ -1,13 +1,71 @@
-# React + Vite
+# 🌦️ Weather Forecasting App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern web application that provides real-time weather forecasts with a clean and responsive UI.  
+Built using **React JS, Node JS, Tailwind CSS, React Router, and Weather API integration**.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Live Demo
+🔗 [Click here to view the live app](weather-app-omega-jet-18.vercel.app)
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-"# weather-app" 
+## 📂 GitHub Repository
+🔗 [View the GitHub Repo](https://github.com/Jerine-cyber/weather-app)
+
+---
+
+## 🛠️ Tech Stack
+- **Frontend:** HTML, Tailwind CSS, React JS, React Router  
+- **Backend:** Node JS  
+- **API:** Weather API (real-time forecast data)  
+
+---
+
+## ✨ Features
+- 🌍 Get real-time weather updates for any location  
+- 🔍 Search functionality for cities worldwide  
+- 📊 Displays temperature, humidity, wind speed, and conditions  
+- 🎨 Modern and responsive UI with Tailwind CSS  
+- ⚡ Fast and dynamic routing with React Router  
+
+---
+
+## 📦 Installation & Setup
+Follow these steps to run the project locally:
+
+```bash
+# Clone the repository
+git clone https://github.com/your-username/weather-forecasting-app.git
+
+# Navigate into the project directory
+cd weather-forecasting-app
+
+# Install dependencies
+npm install
+
+# Start the development server
+npm run dev
+````
+
+---
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+Feel free to fork the repo and submit a pull request.
+
+---
+
+## 📜 License
+
+This project is licensed under the **MIT License**.
+
+---
+
+💡 *Developed with ❤️ using React, Tailwind, Node, and Weather API*
+
+```
+
+Would you like me to also **write a short LinkedIn post description** for this project (like I did for your other projects), so you can share it directly with repo + live demo link?
+```
